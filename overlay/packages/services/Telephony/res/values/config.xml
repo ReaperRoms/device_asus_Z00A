@@ -24,10 +24,4 @@
     <!-- Show enabled lte option for lte device -->
     <bool name="config_enabled_lte" translatable="false">true</bool>
 
-<!-- Config to show/hide Wifi Preference UI option -->
-    <bool name="config_wifi_calling_preference_supported">true</bool>
-    <!-- Default value for wifi preference option as defined in
-        com.android.ims.ImsConfig#WifiCallingPreference
-        for RJIL default value is WIFI_PREFERRED -->
-    <integer name="config_default_wifi_calling_preference">1</integer>
 </resources>
