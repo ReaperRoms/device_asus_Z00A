@@ -1,0 +1,4 @@
+# system.prop for Z00A
+#
+
+qemu.hw.mainkeys=0
