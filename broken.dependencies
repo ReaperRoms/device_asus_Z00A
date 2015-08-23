@@ -7,7 +7,7 @@
   },
   {
     "remote":       "github",
-    "repository":   "TheLoonyBin/proprietary_vendor_asus",
+    "repository":   "blkredstarV/vendor_asus",
     "target_path":  "vendor/asus",
     "branch":       "lp5.1"
   },
