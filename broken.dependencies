@@ -1,9 +1,9 @@
 [
   {
     "remote":       "github",
-    "repository":   "deadman96385/android_kernel_asus_Z00A",
+    "repository":   "blkredstarV/kernel_asus_moorefield",
     "target_path":  "kernel/asus/moorefield",
-    "branch":       "0.5-dev"
+    "branch":       "lp5.1"
   },
   {
     "remote":       "github",
