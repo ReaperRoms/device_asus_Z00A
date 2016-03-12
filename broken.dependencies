@@ -23,4 +23,10 @@
     "target_path":  "external/stlport",
     "branch":       "cm-13.0"
   }
+  {
+    "remote":       "github",
+    "repository":   "CyanogenMod/android_packages_apps_Snap",
+    "target_path":  "packages/apps",
+    "branch":       "cm-13.0"
+  }
 ]
