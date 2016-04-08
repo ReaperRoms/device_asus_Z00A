@@ -28,3 +28,7 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=WW_Z00A \
     BUILD_FINGERPRINT=asus/WW_Z00A/Z00A:5.0/LRX21V/2.20.40.165_20160118_6541_user:user/release-keys \
     PRIVATE_BUILD_DESC="asusmofd_fhd-user 5.0 LRX21V 2.20.40.165_20160118_6541_user release-keys"
+
+# Broken Device Maintainers
+PRODUCT_BUILD_PROP_OVERRIDES += \
+	DEVICE_MAINTAINERS="Roberto Correa (RCG)"
