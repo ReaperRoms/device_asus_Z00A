@@ -1,9 +1,9 @@
 [
   {
     "remote":       "github",
-    "repository":   "CyanogenMod/android_kernel_asus_moorefield",
+    "repository":   "blkredstarV/ZF2_kernel",
     "target_path":  "kernel/asus/moorefield",
-    "branch":       "cm-13.0"
+    "branch":       "m6.0.1"
   },
   {
     "remote":       "github",
